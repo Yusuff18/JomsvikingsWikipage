@@ -1,1 +1,1 @@
-Simple website about the Joms Vikings
+To amplify my skills on HTML/CSS, I iniated a project where I can demonstrate my skills by creating a modern style wiki website consisting of an in-depth explaination of who and what the Jomsvikings were. The research was referenced from Wikipedia and multiple websites.
